@@ -2,6 +2,11 @@
 - my personal external fortnite cheat base
 - includes logic for aimbot, triggerbot, esp etc.
 - designed to be extended with your own memory framework + rendering backend.
+# to make it work
+- update offsets / camera
+- add your overlay and driver
+- add optimization and fix cache which i stripped
+
 # functions
 **aimbot**
 - enabled
