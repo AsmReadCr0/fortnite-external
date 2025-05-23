@@ -1,7 +1,7 @@
 # fortnite-external
-my personal external fortnite cheat base
-includes logic for aimbot, triggerbot, esp etc.
-designed to be extended with your own memory framework + rendering backend.
+- my personal external fortnite cheat base
+- includes logic for aimbot, triggerbot, esp etc.
+- designed to be extended with your own memory framework + rendering backend.
 # functions
 **aimbot**
 - enabled
