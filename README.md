@@ -2,7 +2,7 @@
 - my personal external fortnite cheat base
 - includes logic for aimbot, triggerbot, esp etc.
 - designed to be extended with your own memory framework + rendering backend.
-- for aimbot, removed my mouse aimbot, used raspberri pi for mouse device emulation, you can do it too!
+- for aimbot, removed my mouse aimbot
 # to make it work
 - update offsets / camera
 - add your overlay and driver
